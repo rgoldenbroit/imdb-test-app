@@ -33,7 +33,7 @@ fig = go.Bar(x=newvar2, y=newvar,
 graph_layout = go.Layout(
     title = 'Are more mature movies generally longer?'')
 
-newfigure = go.Figure(layout=beer_layout)
+newfigure = go.Figure(layout=graph_layout)
 
 
 # beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Summer Ale']
