@@ -5,9 +5,6 @@ import plotly.graph_objs as go
 import pandas as pd
 import numpy as np
 
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
-init_notebook_mode(connected=True)
-
 import plotly.plotly as py
 from plotly.graph_objs import *
 
